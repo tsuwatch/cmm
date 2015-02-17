@@ -1,0 +1,9 @@
+y.tab.c
+code.o
+env.o
+lex.yy.c
+cmm
+common.o
+inter.o
+pl0i
+code.output
