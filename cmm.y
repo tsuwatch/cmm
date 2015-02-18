@@ -146,6 +146,7 @@ body : LBAR vdaction stmts RBAR
          offset = offset - $2.val;
        }
      ;
+
 vdaction : vardecls
            {
              int i;
